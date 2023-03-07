@@ -9,3 +9,5 @@
 [ACTION_PROCESS_TEXT intent filter](https://commonsware.com/blog/2015/09/15/book-excerpt-floating-action-mode.html) `Reference for how to get notified on selected text on android`
 
 [RockPaperScissors in webbrowser](https://www.romaglushko.com/lab/rock-paper-scissors/)
+
+[Regex Tutorial and Exercises](http://regextutorials.com/index.html)
