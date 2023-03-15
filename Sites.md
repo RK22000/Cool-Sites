@@ -11,3 +11,5 @@
 [RockPaperScissors in webbrowser](https://www.romaglushko.com/lab/rock-paper-scissors/)
 
 [Regex Tutorial and Exercises](http://regextutorials.com/index.html)
+
+[How to make mysql work on WSL](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-database) `This was problem was annoying a took me a while to figure out since 
