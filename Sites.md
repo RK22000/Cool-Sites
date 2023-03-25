@@ -15,3 +15,5 @@
 [How to make mysql work on WSL](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-database) `This was problem was annoying a took me a while to figure out since `
 
 [Patatap](https://patatap.com/) `Mess around and make cool sounds accompanied by visuals`
+
+[Chafa](https://hpjansson.org/chafa/gallery/) `Display images in the terminal`
