@@ -19,3 +19,5 @@
 [Chafa](https://hpjansson.org/chafa/gallery/) `Display images in the terminal`
 
 [py2exe](https://github.com/py2exe/py2exe) `Create windows executables from python scripts`
+
+[Algorithms visualized](https://visualgo.net/en)
