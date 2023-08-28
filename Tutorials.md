@@ -3,3 +3,5 @@
 [adding ssh pub key to remote host](https://linuxhandbook.com/add-ssh-public-key-to-server/)
 
 [start windows app with parameter](https://www.digitalcitizen.life/shortcut-arguments-parameters-windows/)
+
+[Sphinx documentation generator](https://www.sphinx-doc.org/en/master/)
