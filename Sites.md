@@ -21,3 +21,5 @@
 [py2exe](https://github.com/py2exe/py2exe) `Create windows executables from python scripts`
 
 [Algorithms visualized](https://visualgo.net/en)
+
+[PixiJS](https://pixijs.com/) this looks cool and it was used to make this game [We become what we behold](https://ncase.itch.io/wbwwb)
